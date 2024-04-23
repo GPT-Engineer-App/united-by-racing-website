@@ -26,6 +26,9 @@ const Index = () => {
         <Text fontSize="xl" color="gray.600">
           Speed, Strategy, Success
         </Text>
+        <Text fontSize="md" mt={4} p={4} textAlign="center">
+          United By Racing is dedicated to showcasing top-tier racing performance and strategy. Our team is composed of seasoned professionals who excel in their respective roles, ensuring that every race is a step towards victory.
+        </Text>
       </Flex>
 
       <VStack spacing={8} p={8}>
