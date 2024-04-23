@@ -17,7 +17,7 @@ const Index = () => {
   };
 
   return (
-    <Box>
+    <Box bg="brand.700">
       <Flex direction="column" align="center" m={4}>
         <Image src="https://images.unsplash.com/photo-1473322780082-eca592c43a0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxyYWNpbmclMjB0ZWFtJTIwbG9nb3xlbnwwfHx8fDE3MTM5MDQxNDd8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="United By Racing Logo" boxSize="150px" />
         <Text fontSize="4xl" fontWeight="bold" mt={2}>
